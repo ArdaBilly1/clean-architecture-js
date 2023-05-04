@@ -1,0 +1,22 @@
+{
+  "name": "clean-architecture-javascript",
+  "version": "1.0.0",
+  "description": "ini adalah project belajar menerapkan serta memahami javascript dalam bentuk clean architecture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdaBilly1/clean-architecture-js.git"
+  },
+  "author": "ardabilli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArdaBilly1/clean-architecture-js/issues"
+  },
+  "homepage": "https://github.com/ArdaBilly1/clean-architecture-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
