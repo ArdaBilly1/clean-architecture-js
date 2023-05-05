@@ -24,7 +24,7 @@ export default function expressSetting(app) {
             'GET, POST, OPTIONS, PUT, PATCH, DELETE'
         )
         
-        // response allow
+        // header allow
         res.setHeader(
             'Access-Control-Allow-Headers',
             'X-Requested-With, Content-type, Authorization, Cache-control, Pragma'
