@@ -1,7 +1,7 @@
 import { createTerminus } from "@godaddy/terminus";
 
 
-export default function serverConfig(app, ServerInit) 
+export default function serverConfig(app, ServerInit, config) 
 {
     function health() {
         return Promise.resolve()

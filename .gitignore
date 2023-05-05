@@ -1,0 +1,4 @@
+.env
+
+# node module not have to insert into repository
+/node_modules
